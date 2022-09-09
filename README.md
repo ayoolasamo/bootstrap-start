@@ -1,22 +1,18 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">A Simple Webpage with Bootstrap</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="https://www.youtube.com/watch?v=TJF4ldO91n4" target="_blank">Drew Ryan</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://bootstrappagee.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
+    <a href="https://www.youtube.com/watch?v=TJF4ldO91n4"bo>
       Challenge
     </a>
   </h3>
@@ -27,49 +23,36 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
+- [Built With](#built-with)
 - [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/ayoolasamo/bootstrap-start/blob/master/Capture.PNG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+The demo of this project was depolyed on netlify it can be viewed by clicking the demo link above, while creating this little webpage I learnt about the use of bootstrap to make a very nice  responsive Layout of a page with so much ease. In addition i have impoved the the use of CSS to style a page. The famous saying is that practice makes perfect which is exactly what I would continue doing.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) was to build an application to complete the given user stories.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Bootstrap](https://www.bootstrapcdn.com/)
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+
+- [Drew Ryan's Youtube tutorials](https://www.youtube.com/watch?v=TJF4ldO91n4)
 
 ## Contact
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@samoayoola](https://{github.com/samoayoola})
+- Linkedin [Samo Ayoola](https://www.linkedin.com/in/ayoolasamo/)
