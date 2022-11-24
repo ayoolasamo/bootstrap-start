@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://bootstrappagee.netlify.app/">
+    <a href="https://bootstrappagee.netlify.app/">
       Demo
     </a>
     <span> | </span>
